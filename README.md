@@ -10,7 +10,7 @@ This app is built with:
 * [MySQL]
 
 ## Pre-Requisites
- - Download [AngularCLI](https://cli.angular.io/), [NodeJS](https://nodejs.org/), [MAMP](https://www.mamp.info/en/downloads/) / [XAMPP](https://www.apachefriends.org/ro/download.html)
+ - Download [AngularCLI](https://cli.angular.io/), [NodeJS](https://nodejs.org/),  [XAMPP](https://www.apachefriends.org/ro/download.html)
  - Make sure to download the node-modules required for BackEnd and FrontEnd.
  - Download Access-Control-Allow-Origin Chrome Extension (it's required for the BackEnd - CORS).
 
